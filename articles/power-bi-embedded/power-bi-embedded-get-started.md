@@ -96,7 +96,7 @@ After you save your work in **Power BI Desktop**, a PBIX file is created. This f
 
 ## Create Power BI datasets and reports using APIs
 
-### Datsets
+### Datasets
 
 You can create datasets within Power BI Embedded using the REST API. You can then push data into your dataset. This allows you to work with data without the need of Power BI Desktop. For more information, see [Post Datasets](https://msdn.microsoft.com/library/azure/mt778875.aspx).
 
